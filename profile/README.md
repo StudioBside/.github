@@ -1,0 +1,1 @@
+![](../Images/logo_console.png)
