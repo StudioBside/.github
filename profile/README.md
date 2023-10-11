@@ -1,1 +1,1 @@
-![](https://raw.githubusercontent.com/StudioBside/.github/main/Images/logo_console.png)
+![](https://raw.githubusercontent.com/StudioBside/.github/main/Images/logo_console2.png)
